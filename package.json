@@ -1,0 +1,11 @@
+{
+  "name": "my-work",
+  "version": "1.0.0",
+  "description": "Website that showcases the work i've be doing for the past few years",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samuel Munyiri",
+  "license": "MIT"
+}
