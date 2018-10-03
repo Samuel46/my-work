@@ -2,7 +2,7 @@
 body {
   font-family: "Mali", cursive;
   height: 100vh;
-  background: #333 url("../img/new2.jpeg") no-repeat center / cover;
+  background: #333 url("../img/padd.jpeg") no-repeat center center / cover;
   color: #fff;
 }
 /* Preloader Booking section */
@@ -609,7 +609,7 @@ main#home h1 {
   }
 
   .txt-type {
-    font-size: 1.3rem;
+    font-size: 1.2rem;
   }
 
   .menu {
@@ -633,6 +633,6 @@ main#home h1 {
   }
 
   .wrapper h1 {
-    font-size: 1.3rem;
+    font-size: 1.2rem;
   }
 }
