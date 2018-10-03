@@ -423,7 +423,7 @@ h2 {
   border-top: #777 solid 3px;
   border-bottom: #ccc solid 1px;
   padding: 1rem;
-  background: rgba(47, 48, 49, 0.7);
+  background: rgba(59, 62, 65, 0.7);
 }
 
 .content .title {
@@ -470,13 +470,6 @@ main#home h1 {
   .project {
     grid-template-columns: repeat(4, 1fr);
   }
-
-  .wrapper {
-    border-top: rgb(4, 60, 70) solid 4px;
-    border-bottom: #fff solid 1px;
-    padding: 1rem;
-    background: rgba(25, 41, 56, 0.7);
-  }
 }
 @media screen and (min-width: 769px) and (max-width: 1170px) {
   .project {
@@ -494,12 +487,6 @@ main#home h1 {
     height: 350px;
     text-align: center;
     transition: all 1000ms;
-  }
-  .wrapper {
-    border-top: rgb(4, 60, 70) solid 4px;
-    border-bottom: #fff solid 1px;
-    padding: 1rem;
-    background: rgba(25, 41, 56, 0.7);
   }
 }
 
@@ -576,13 +563,6 @@ main#home h1 {
   }
   .menu {
     z-index: 2;
-  }
-
-  .wrapper {
-    border-top: rgb(4, 60, 70) solid 4px;
-    border-bottom: #fff solid 1px;
-    padding: 1rem;
-    background: rgba(25, 41, 56, 0.7);
   }
 
   .txt-type {
