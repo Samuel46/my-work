@@ -81,6 +81,11 @@ main {
   min-height: calc(100vh - 60px);
   padding: 1rem 1rem;
 }
+/* New updates as per 10/10/2019 installation of new logo */
+.logoo {
+  width: 90px;
+  height: 90px;
+}
 /* Navigation */
 .menu-btn {
   position: absolute;
