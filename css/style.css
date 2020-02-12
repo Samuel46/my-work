@@ -2,8 +2,13 @@
 body {
   font-family: "Mali", cursive;
   height: 100vh;
-  background: #333 url("../img/padd.jpeg") no-repeat center center / cover;
+  background: #333 url("../img/code-coding-macro-879109.jpg") no-repeat center
+    center / cover;
   color: #fff;
+}
+.logoo {
+  width: 200px !important;
+  height: 200px !important;
 }
 /* Preloader Booking section */
 /* Spinner 1 */
